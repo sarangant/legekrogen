@@ -1,1 +1,2 @@
-const server = require("./lib/server/server.js"); // Importer Express app
+// Entry point til backend
+require("./lib/server/server.js"); // Importer Express app
