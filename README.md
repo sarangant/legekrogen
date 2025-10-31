@@ -127,8 +127,8 @@ http://localhost:5500/users/image-1698000000000.jpg
 ## Kørsel af seeds (dummy data)
 
 ```bash
-node scripts/import.js users
-node scripts/import.js products
+node lib/scripts/import.js users
+node lib/scripts/import.js products
 ```
 
 ---
