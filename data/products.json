@@ -1,6 +1,6 @@
 [
   {
-    "title": "Brio",
+    "name": "Brio",
     "description": "Togbane i 50 dele",
     "image": "/products/product6.jpg",
     "price": 749,
@@ -8,7 +8,7 @@
     "recommended": true
   },
   {
-    "title": "Tiny Republic Play 3",
+    "name": "Tiny Republic Play 3",
     "description": "Tandlægesæt i træ",
     "image": "/products/product1.jpg",
     "price": 169,
@@ -16,7 +16,7 @@
     "recommended": false
   },
   {
-    "title": "Kids Concept",
+    "name": "Kids Concept",
     "description": "Edwind gåvogn",
     "image": "/products/product2.jpg",
     "price": 499,
@@ -24,7 +24,7 @@
     "recommended": true
   },
   {
-    "title": "Vilac",
+    "name": "Vilac",
     "description": "Fire på stribe spil",
     "image": "/products/product3.jpg",
     "price": 69.3,
@@ -32,7 +32,7 @@
     "recommended": false
   },
   {
-    "title": "Kids Concept",
+    "name": "Kids Concept",
     "description": "Neo gyngedinosaur",
     "image": "/products/product5.jpg",
     "price": 749,
@@ -40,7 +40,7 @@
     "recommended": true
   },
   {
-    "title": "Tiny Republic Play",
+    "name": "Tiny Republic Play",
     "description": "Isbod i træ",
     "image": "/products/product4.jpg",
     "price": 259,
