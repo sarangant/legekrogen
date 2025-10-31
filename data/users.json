@@ -2,13 +2,13 @@
   {
     "name": "admin",
     "email": "admin@mediacollege.dk",
-    "hashedPassword": "$2a$10$4WcrG4sAtt6Eneyhac5aCuVey.Roq9ZqYNvZNJf22dJzT6gSZv8P.",
+    "picture": "https://glamping-rqu9j.ondigitalocean.app//users/no-user.jpg",
     "role": "admin"
   },
   {
     "name": "guest",
     "email": "guest@mediacollege.dk",
-    "hashedPassword": "$2a$10$8Of/lhtKxWR7KyYWa5gPWuijvfMMES.gGCS2C7cJ99vCF52RliPtu",
+    "picture": "https://glamping-rqu9j.ondigitalocean.app//users/no-user.jpg",
     "role": "guest"
   }
 ]

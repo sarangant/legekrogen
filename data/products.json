@@ -1,20 +1,50 @@
 [
   {
-    "name": "Farverigt legetelt",
+    "title": "Brio",
+    "description": "Togbane i 50 dele",
+    "image": "/products/product6.jpg",
+    "price": 749,
+    "discountInPercent": 0,
+    "recommended": true
+  },
+  {
+    "title": "Tiny Republic Play 3",
+    "description": "Tandlægesæt i træ",
+    "image": "/products/product1.jpg",
+    "price": 169,
+    "discountInPercent": 0,
+    "recommended": false
+  },
+  {
+    "title": "Kids Concept",
+    "description": "Edwind gåvogn",
+    "image": "/products/product2.jpg",
     "price": 499,
-    "description": "Et lille hyggeligt telt til børn, perfekt til leg og fantasi.",
-    "image": "https://example.com/legetelt.jpg"
+    "discountInPercent": 45,
+    "recommended": true
   },
   {
-    "name": "Byggesæt med klodser",
-    "price": 299,
-    "description": "Kreativt byggesæt til børn i alle aldre, fremmer motorik og fantasi.",
-    "image": "https://example.com/klodser.jpg"
+    "title": "Vilac",
+    "description": "Fire på stribe spil",
+    "image": "/products/product3.jpg",
+    "price": 69.3,
+    "discountInPercent": 30,
+    "recommended": false
   },
   {
-    "name": "Måneformet gynge",
-    "price": 799,
-    "description": "Sikker og sjov gynge til børn, kan hænges både indendørs og udendørs.",
-    "image": "https://example.com/gynge.jpg"
+    "title": "Kids Concept",
+    "description": "Neo gyngedinosaur",
+    "image": "/products/product5.jpg",
+    "price": 749,
+    "discountInPercent": 0,
+    "recommended": true
+  },
+  {
+    "title": "Tiny Republic Play",
+    "description": "Isbod i træ",
+    "image": "/products/product4.jpg",
+    "price": 259,
+    "discountInPercent": 0,
+    "recommended": false
   }
 ]
